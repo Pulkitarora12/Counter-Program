@@ -4,11 +4,11 @@ This is my first project as I restart my JavaScript journey after a long time. T
 
 # Features
 
-✔️ Increment and decrement functionality
+✔️ Increment and decrement functionality <br>
 ✔️ Reset button to set the counter back to zero
 
 # Tech Stack
 
-HTML – Structure of the page
-CSS – Basic styling
-JavaScript – Core logic and interactivity
+✔️ HTML – Structure of the page <br>
+✔️ CSS – Basic styling <br>
+✔️ JavaScript – Core logic and interactivity
