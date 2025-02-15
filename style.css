@@ -1,0 +1,40 @@
+body {
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
+
+.counter {
+  width: 400px;
+  height: auto;
+  background-color: grey;
+  padding: 15px;
+  border-radius: 5px;
+}
+
+#myCounter {
+  display: block;
+  text-align: center;
+  font-size: 10em;
+}
+
+.btn {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+#mybtn {
+  background-color: rgb(60, 119, 192);
+  color: white;
+  padding: 10px;
+  border-radius: 5px;
+  font-size: 1.25em;
+  cursor: pointer;
+  transition: background-color 0.25s;
+}
+
+#mybtn:hover {
+  background-color: rgb(38, 12, 106);
+}
